@@ -8,3 +8,4 @@
  */
 
  echo phpinfo();
+ echo phpinfo();
